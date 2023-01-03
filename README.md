@@ -1,5 +1,5 @@
 # West-Ham-United-
-Identify future talents. While working with your fellow scouts and Chief Scout
+Identify future talents. While working with your fellow scouts and Chief Scout Using Tableau to analyze, Visulaize, and report for the insights I got.  
 
 # What Asked from fellow scouts and Chief Scout
 1.	As West Ham United need an immediate impact player, the Chief Scout, Oliver Scott, has told you to only select players with at least TWO (2) seasons of experience playing in a first team (Hint: Choose players that meet the requirement when visualizing).
